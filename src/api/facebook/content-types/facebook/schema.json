@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "facebooks",
+  "info": {
+    "singularName": "facebook",
+    "pluralName": "facebooks",
+    "displayName": "Facebook"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Idname": {
+      "type": "string"
+    }
+  }
+}

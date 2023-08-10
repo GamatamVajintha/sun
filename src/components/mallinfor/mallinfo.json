@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_mallinfor_mallinfos",
+  "info": {
+    "displayName": "mallinfo"
+  },
+  "options": {},
+  "attributes": {
+    "hours": {
+      "type": "string"
+    }
+  }
+}
